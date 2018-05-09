@@ -6,7 +6,7 @@
 <body>
 	<h1>Ini Judul</h1>
 
-	<<?php 
+	<?php 
 		echo "Inti Tulisan";
 	?>
 	<p>LoremIpsum</p>
